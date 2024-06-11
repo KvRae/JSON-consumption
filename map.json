@@ -1,0 +1,1550 @@
+{
+  "id": 1,
+  "name": "LLoyd's Building",
+  "floors": [
+    {
+      "id": 1,
+      "number": 9,
+      "name": "Machinestalk",
+      "pois": [
+        {
+          "id": 0,
+          "entry": "C",
+          "floorId": 1,
+          "name": "Open Space",
+          "category": "Workplace",
+          "opensAt": "08:00",
+          "closesAt": "20:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "Open Space is a place where you can work and have fun",
+          "iconPosition": {
+            "x": 2.4,
+            "y": 3.1,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": -5.0
+          },
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/3a324935-8d50-4035-b1ce-4e5a04cc5096",
+          "icon": "open_space_icon.png",
+          "points": [
+            {
+              "x": -2.0,
+              "y": 7.3,
+              "z": 0.2
+            },
+            {
+              "x": -2.0,
+              "y": -2.1,
+              "z": 0.2
+            },
+            {
+              "x": 6.4,
+              "y": -2.1,
+              "z": 0.2
+            },
+            {
+              "x": 6.4,
+              "y": 7.3,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "entry": "B",
+          "floorId": 1,
+          "name": "Multipurpose Room",
+          "category": "Activity",
+          "opensAt": "10:00",
+          "closesAt": "17:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "Multipurpose Room is a place where you can have fun",
+          "iconPosition": {
+            "x": 8.3,
+            "y": 3.1,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": 8.3,
+            "y": 3.1,
+            "z": 0.0
+          },
+          "icon": "multi_icon.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/2eb62391-fdc1-497f-871a-c7af4f1870e1",
+          "points": [
+            {
+              "x": 6.4,
+              "y": 7.3,
+              "z": 0.2
+            },
+            {
+              "x": 6.4,
+              "y": -2.1,
+              "z": 0.2
+            },
+            {
+              "x": 10.3,
+              "y": -2.1,
+              "z": 0.2
+            },
+            {
+              "x": 10.3,
+              "y": 7.3,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "floorId": 1,
+          "entry": "D",
+          "name": "WC Room",
+          "category": "Service",
+          "opensAt": "18:00",
+          "closesAt": "19:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "WC Room is a place where you can have da poop",
+          "iconPosition": {
+            "x": 1.7,
+            "y": -5.0,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "wc_icon.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/00a4c6d4-ddb2-4c94-b6ef-ee6533cea21f",
+          "points": [
+            {
+              "x": 2.9,
+              "y": -4.0,
+              "z": 0.2
+            },
+            {
+              "x": 2.9,
+              "y": -6.0,
+              "z": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": -6.0,
+              "z": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": -4.0,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "floorId": 1,
+          "entry": "G",
+          "name": "Pray Room",
+          "category": "Religious",
+          "opensAt": "03:00",
+          "closesAt": "22:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "Pray Room is a place where you can pray",
+          "iconPosition": {
+            "x": -1.4,
+            "y": -5.4,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "office_table.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/1000c97e-39f2-4fb8-8a78-b461b38486a5",
+          "points": [
+            {
+              "x": -0.7,
+              "y": -4.8,
+              "z": 0.2
+            },
+            {
+              "x": -0.7,
+              "y": -5.8,
+              "z": 0.2
+            },
+            {
+              "x": -2.0,
+              "y": -5.8,
+              "z": 0.2
+            },
+            {
+              "x": -2.0,
+              "y": -4.8,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Biro Hichem",
+          "entry": "F",
+          "category": "Meetings",
+          "opensAt": "17:00",
+          "closesAt": "22:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "floorId": 1,
+          "description": "Biro Hichem is a place where you can find kalech",
+          "iconPosition": {
+            "x": -1.4,
+            "y": -4.0,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "office_table.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/1000c97e-39f2-4fb8-8a78-b461b38486a5",
+          "points": [
+            {
+              "x": -0.7,
+              "y": -3.4,
+              "z": 0.2
+            },
+            {
+              "x": -0.7,
+              "y": -4.5,
+              "z": 0.2
+            },
+            {
+              "x": -2.0,
+              "y": -4.5,
+              "z": 0.2
+            },
+            {
+              "x": -2.0,
+              "y": -3.4,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "floorId": 1,
+          "name": "HOE Office",
+          "category": "Workplace",
+          "entry": "E",
+          "opensAt": "08:00",
+          "closesAt": "17:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "HOE Office is a place where you can find the hoe",
+          "iconPosition": {
+            "x": -1.4,
+            "y": -2.7,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "office_table.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/1000c97e-39f2-4fb8-8a78-b461b38486a5",
+          "points": [
+            {
+              "x": -0.7,
+              "y": -2.1,
+              "z": 0.2
+            },
+            {
+              "x": -0.7,
+              "y": -3.2,
+              "z": 0.2
+            },
+            {
+              "x": -2.0,
+              "y": -3.2,
+              "z": 0.2
+            },
+            {
+              "x": -2.0,
+              "y": -2.1,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "floorId": 1,
+          "name": "Conf Room",
+          "category": "Meetings",
+          "opensAt": "18:00",
+          "closesAt": "23:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "entry": "J",
+          "description": "Conf Room is a place where you can do meetings",
+          "iconPosition": {
+            "x": -1.6,
+            "y": -8.1,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "icon_conference.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/eb46f501-191f-49d2-81e3-262c351ccbc4",
+          "points": [
+            {
+              "x": -2.6,
+              "y": -6.2,
+              "z": 0.2
+            },
+            {
+              "x": -2.6,
+              "y": -9.9,
+              "z": 0.2
+            },
+            {
+              "x": -0.7,
+              "y": -9.9,
+              "z": 0.2
+            },
+            {
+              "x": -0.7,
+              "y": -6.2,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "floorId": 1,
+          "entry": "M",
+          "name": "Ons's Office",
+          "category": "Management",
+          "opensAt": "08:00",
+          "closesAt": "14:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "Ons's Office is a place where you can find the ons",
+          "iconPosition": {
+            "x": -1.6,
+            "y": -11.2,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "admin_icon.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/05988dc3-0129-4697-9194-4ea7c43ecd89",
+          "points": [
+            {
+              "x": -0.4,
+              "y": -10.2,
+              "z": 0.2
+            },
+            {
+              "x": -0.4,
+              "y": -12.5,
+              "z": 0.2
+            },
+            {
+              "x": -2.6,
+              "y": -12.5,
+              "z": 0.2
+            },
+            {
+              "x": -2.6,
+              "y": -10.2,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "floorId": 1,
+          "entry": "O",
+          "name": "Talent Show Room",
+          "category": "Meetings",
+          "opensAt": "08:00",
+          "closesAt": "17:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "Talent Show Room is a place where you can find the talent",
+          "iconPosition": {
+            "x": 0.0,
+            "y": -13.5,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "icon_conference.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/eb46f501-191f-49d2-81e3-262c351ccbc4",
+          "points": [
+            {
+              "x": -2.6,
+              "y": -12.5,
+              "z": 0.2
+            },
+            {
+              "x": -2.6,
+              "y": -14.5,
+              "z": 0.2
+            },
+            {
+              "x": 2.3,
+              "y": -14.5,
+              "z": 0.2
+            },
+            {
+              "x": 2.3,
+              "y": -12.5,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "floorId": 1,
+          "entry": "Q",
+          "name": "Secretary Office",
+          "category": "Management",
+          "opensAt": "08:00",
+          "closesAt": "15:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "description": "Secretary Office is a place where you can find the secretary",
+          "iconPosition": {
+            "x": 4.5,
+            "y": -13.5,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.2
+          },
+          "icon": "office_table.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/1000c97e-39f2-4fb8-8a78-b461b38486a5",
+          "points": [
+            {
+              "x": 2.4,
+              "y": -12.6,
+              "z": 0.2
+            },
+            {
+              "x": 2.4,
+              "y": -14.5,
+              "z": 0.2
+            },
+            {
+              "x": 6.4,
+              "y": -14.5,
+              "z": 0.2
+            },
+            {
+              "x": 6.4,
+              "y": -12.6,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "floorId": 1,
+          "name": "GM's Office",
+          "category": "Management",
+          "opensAt": "08:00",
+          "closesAt": "18:00",
+          "phoneNumber": "+216 99 026 017",
+          "facebookUrl": "https://www.facebook.com/openspace",
+          "xUrl": "https://www.x.com/openspace",
+          "instagramUrl": "https://www.instagram.com/openspace",
+          "entry": "T",
+          "description": "GM's Office is a place where you can find the GM",
+          "iconPosition": {
+            "x": 8.0,
+            "y": -13.5,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "icon": "admin_icon.png",
+          "iconUrl": "https://github.com/KvRae/JSON-consumption/assets/58667227/05988dc3-0129-4697-9194-4ea7c43ecd89",
+          "points": [
+            {
+              "x": 9.5,
+              "y": -12.4,
+              "z": 0.2
+            },
+            {
+              "x": 9.5,
+              "y": -14.5,
+              "z": 0.2
+            },
+            {
+              "x": 6.4,
+              "y": -14.5,
+              "z": 0.2
+            },
+            {
+              "x": 6.4,
+              "y": -12.4,
+              "z": 0.2
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "floorId": 1,
+          "name": "HallWay",
+          "entry": "A",
+          "category": "",
+          "description": "",
+          "iconPosition": {
+            "x": 0.0,
+            "y": -2.1,
+            "z": 0.3
+          },
+          "textPosition": {
+            "x": -1.8,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "opensAt": "08:00",
+          "closesAt": "18:00",
+          "icon": "office_table.png",
+          "iconUrl": "https://private-user-images.githubusercontent.com/58667227/336773150-1000c97e-39f2-4fb8-8a78-b461b38486a5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTgxMDY1MTMsIm5iZiI6MTcxODEwNjIxMywicGF0aCI6Ii81ODY2NzIyNy8zMzY3NzMxNTAtMTAwMGM5N2UtMzlmMi00ZmI4LThhNzgtYjQ2MWIzODQ4NmE1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjExVDExNDMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3MWIxNjg4YTc3ZDFmZGIyZjk3OTVkNTdlYWM5ZjM1YzE0ZGI5OTE1ZDMyZjY4ZmM5YTljNTdkMjZlNTM0ZmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9x2HenESYYgnDM_VqN3EKvYI8B05l9LwlqvsmZA0NCE",
+          "points": [
+            {
+              "x": 10.4,
+              "y": -2.1,
+              "z": 0.2
+            },
+            {
+              "x": -0.7,
+              "y": -2.1,
+              "z": 0.2
+            },
+            {
+              "x": -0.7,
+              "y": -9.9,
+              "z": 0.2
+            },
+            {
+              "x": -0.4,
+              "y": -9.9,
+              "z": 0.2
+            },
+            {
+              "x": -0.4,
+              "y": -12.6,
+              "z": 0.2
+            },
+            {
+              "x": 9.5,
+              "y": -12.6,
+              "z": 0.2
+            },
+            {
+              "x": 9.5,
+              "y": -10.5,
+              "z": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": -10.5,
+              "z": 0.2
+            },
+            {
+              "x": 0.7,
+              "y": -6.1,
+              "z": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": -6.1,
+              "z": 0.2
+            },
+            {
+              "x": 0.3,
+              "y": -4.0,
+              "z": 0.2
+            },
+            {
+              "x": 10.4,
+              "y": -4.0,
+              "z": 0.2
+            }
+          ]
+        }
+      ],
+      "walls": [
+        {
+          "id": 0,
+          "position": {
+            "x": -2.0,
+            "y": 2.7,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 9.1,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 1,
+          "position": {
+            "x": 4.2,
+            "y": 7.2,
+            "z": 0.0
+          },
+          "size": {
+            "x": 12.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 2,
+          "position": {
+            "x": 7.45,
+            "y": -2.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 2.2,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 3,
+          "position": {
+            "x": 6.5,
+            "y": 2.5,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 9.0,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 4,
+          "position": {
+            "x": 9.8,
+            "y": -2.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.8,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 5,
+          "position": {
+            "x": 10.3,
+            "y": 1.7,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 11.2,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 6,
+          "position": {
+            "x": 10.0,
+            "y": -3.9,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.9,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 7,
+          "position": {
+            "x": 5.8,
+            "y": -3.9,
+            "z": 0.0
+          },
+          "size": {
+            "x": 6.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 8,
+          "position": {
+            "x": 3.2,
+            "y": -3.9,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.8,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 9,
+          "position": {
+            "x": 2.3,
+            "y": -3.9,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 10,
+          "position": {
+            "x": 2.3,
+            "y": -3.9,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 11,
+          "position": {
+            "x": 0.7,
+            "y": -3.9,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.7,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 12,
+          "position": {
+            "x": 1.5,
+            "y": -6.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 2.8,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 13,
+          "position": {
+            "x": 0.2,
+            "y": -4.95,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 2.4,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 14,
+          "position": {
+            "x": 3.0,
+            "y": -4.95,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 2.4,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 15,
+          "position": {
+            "x": 0.7,
+            "y": -8.4,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 4.6,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 16,
+          "position": {
+            "x": 5.1,
+            "y": -10.6,
+            "z": 0.0
+          },
+          "size": {
+            "x": 9.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 17,
+          "position": {
+            "x": 5.1,
+            "y": -10.6,
+            "z": 0.0
+          },
+          "size": {
+            "x": 9.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 18,
+          "position": {
+            "x": 9.6,
+            "y": -11.7,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 2.4,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 19,
+          "position": {
+            "x": -1.4,
+            "y": -2.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 20,
+          "position": {
+            "x": -1.4,
+            "y": -3.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 21,
+          "position": {
+            "x": -1.4,
+            "y": -4.6,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 22,
+          "position": {
+            "x": -1.4,
+            "y": -6.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 23,
+          "position": {
+            "x": -2.0,
+            "y": -4.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 4.0,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 24,
+          "position": {
+            "x": -2.5,
+            "y": -6.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.9,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 25,
+          "position": {
+            "x": -2.8,
+            "y": -9.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 6.4,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 26,
+          "position": {
+            "x": -1.7,
+            "y": -10.0,
+            "z": 0.0
+          },
+          "size": {
+            "x": 2.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 27,
+          "position": {
+            "x": -1.7,
+            "y": -12.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 2.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 28,
+          "position": {
+            "x": -0.3,
+            "y": -10.2,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 0.7,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 29,
+          "position": {
+            "x": -0.3,
+            "y": -11.8,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 0.7,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 30,
+          "position": {
+            "x": 6.2,
+            "y": -13.4,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 2.0,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 31,
+          "position": {
+            "x": 5.6,
+            "y": -12.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 32,
+          "position": {
+            "x": 3.3,
+            "y": -12.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.6,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 33,
+          "position": {
+            "x": 4.4,
+            "y": -14.5,
+            "z": 0.0
+          },
+          "size": {
+            "x": 4.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 34,
+          "position": {
+            "x": -0.2,
+            "y": -12.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.9,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 35,
+          "position": {
+            "x": 2.0,
+            "y": -12.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 36,
+          "position": {
+            "x": -1.4,
+            "y": -4.6,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 37,
+          "position": {
+            "x": -2.8,
+            "y": -13.4,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 2.0,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 38,
+          "position": {
+            "x": 2.4,
+            "y": -13.4,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 2.0,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 39,
+          "position": {
+            "x": 9.6,
+            "y": -13.5,
+            "z": 0.0
+          },
+          "size": {
+            "x": 0.3,
+            "y": 2.2,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 40,
+          "position": {
+            "x": 8.0,
+            "y": -14.5,
+            "z": 0.0
+          },
+          "size": {
+            "x": 3.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 41,
+          "position": {
+            "x": 9.0,
+            "y": -12.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.0,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 42,
+          "position": {
+            "x": 7.0,
+            "y": -12.3,
+            "z": 0.0
+          },
+          "size": {
+            "x": 1.3,
+            "y": 0.3,
+            "z": 1.0
+          }
+        },
+        {
+          "id": 43,
+          "position": {
+            "x": -0.2,
+            "y": -14.5,
+            "z": 0.0
+          },
+          "size": {
+            "x": 5.5,
+            "y": 0.3,
+            "z": 1.0
+          }
+        }
+      ],
+      "pathways": [
+        {
+          "id": 0,
+          "name": "A",
+          "coordinates": {
+            "x": 9.2,
+            "y": -3.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "B",
+            "A1"
+          ]
+        },
+        {
+          "id": 1,
+          "name": "B",
+          "coordinates": {
+            "x": 9.2,
+            "y": -2.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "A",
+            "C"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "C",
+          "coordinates": {
+            "x": 5.4,
+            "y": -2.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "B",
+            "D"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "D",
+          "coordinates": {
+            "x": 1.4,
+            "y": -2.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "C",
+            "E"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "E",
+          "coordinates": {
+            "x": -0.3,
+            "y": -2.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "D",
+            "F"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "F",
+          "coordinates": {
+            "x": -0.3,
+            "y": -4.0,
+            "z": 0.0
+          },
+          "neighbors": [
+            "E",
+            "G"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "G",
+          "coordinates": {
+            "x": -0.3,
+            "y": -5.0,
+            "z": 0.0
+          },
+          "neighbors": [
+            "F",
+            "H"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "H",
+          "coordinates": {
+            "x": -0.3,
+            "y": -6.0,
+            "z": 0.0
+          },
+          "neighbors": [
+            "G",
+            "I"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "I",
+          "coordinates": {
+            "x": -0.3,
+            "y": -7.0,
+            "z": 0.0
+          },
+          "neighbors": [
+            "H",
+            "J"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "J",
+          "coordinates": {
+            "x": -0.3,
+            "y": -8.0,
+            "z": 0.0
+          },
+          "neighbors": [
+            "I",
+            "K"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "K",
+          "coordinates": {
+            "x": -0.3,
+            "y": -9.0,
+            "z": 0.0
+          },
+          "neighbors": [
+            "J",
+            "L"
+          ]
+        },
+        {
+          "id": 11,
+          "name": "L",
+          "coordinates": {
+            "x": 0.2,
+            "y": -10.3,
+            "z": 0.0
+          },
+          "neighbors": [
+            "K",
+            "M"
+          ]
+        },
+        {
+          "id": 12,
+          "name": "M",
+          "coordinates": {
+            "x": 0.3,
+            "y": -11.4,
+            "z": 0.0
+          },
+          "neighbors": [
+            "L",
+            "O"
+          ]
+        },
+        {
+          "id": 13,
+          "name": "O",
+          "coordinates": {
+            "x": 1.5,
+            "y": -11.4,
+            "z": 0.0
+          },
+          "neighbors": [
+            "N",
+            "P"
+          ]
+        },
+        {
+          "id": 14,
+          "name": "P",
+          "coordinates": {
+            "x": 2.8,
+            "y": -11.4,
+            "z": 0.0
+          },
+          "neighbors": [
+            "O",
+            "Q"
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Q",
+          "coordinates": {
+            "x": 4.1,
+            "y": -11.4,
+            "z": 0.0
+          },
+          "neighbors": [
+            "P",
+            "R"
+          ]
+        },
+        {
+          "id": 16,
+          "name": "R",
+          "coordinates": {
+            "x": 5.4,
+            "y": -11.4,
+            "z": 0.0
+          },
+          "neighbors": [
+            "Q",
+            "S"
+          ]
+        },
+        {
+          "id": 17,
+          "name": "S",
+          "coordinates": {
+            "x": 6.7,
+            "y": -11.4,
+            "z": 0.0
+          },
+          "neighbors": [
+            "R",
+            "T"
+          ]
+        },
+        {
+          "id": 18,
+          "name": "T",
+          "coordinates": {
+            "x": 8.0,
+            "y": -11.4,
+            "z": 0.0
+          },
+          "neighbors": [
+            "S"
+          ]
+        },
+        {
+          "id": 19,
+          "name": "A1",
+          "coordinates": {
+            "x": 3.9,
+            "y": -4.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "A",
+            "B1"
+          ]
+        },
+        {
+          "id": 20,
+          "name": "B1",
+          "coordinates": {
+            "x": 4.9,
+            "y": -4.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "A1",
+            "C1"
+          ]
+        },
+        {
+          "id": 21,
+          "name": "C1",
+          "coordinates": {
+            "x": 5.9,
+            "y": -4.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "B1",
+            "D1"
+          ]
+        },
+        {
+          "id": 22,
+          "name": "D1",
+          "coordinates": {
+            "x": 6.9,
+            "y": -4.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "C1",
+            "E1"
+          ]
+        },
+        {
+          "id": 23,
+          "name": "E1",
+          "coordinates": {
+            "x": 6.9,
+            "y": -5.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "D1",
+            "F1"
+          ]
+        },
+        {
+          "id": 24,
+          "name": "F1",
+          "coordinates": {
+            "x": 6.9,
+            "y": -6.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "E1",
+            "G1"
+          ]
+        },
+        {
+          "id": 25,
+          "name": "G1",
+          "coordinates": {
+            "x": 6.9,
+            "y": -7.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "F1",
+            "H1"
+          ]
+        },
+        {
+          "id": 26,
+          "name": "H1",
+          "coordinates": {
+            "x": 6.9,
+            "y": -8.8,
+            "z": 0.0
+          },
+          "neighbors": [
+            "G1"
+          ]
+        }
+      ]
+    }
+  ]
+}
